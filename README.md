@@ -1,5 +1,9 @@
 # **Ambee API client**
 
+![go version](https://img.shields.io/github/go-mod/go-version/afif1400/go-ambee?style=flat-square)
+[![CI](https://img.shields.io/github/workflow/status/afif1400/go-ambee/go%20test?style=flat-square)](https://github.com/afif1400/go-ambee/actions/workflows/test.yaml)
+![last commit](https://img.shields.io/github/last-commit/afif1400/go-ambee?style=flat-square)
+
 A wrapper for the [Ambee API](https://www.getambee.com)
 
 Ambee provides accurate environmental intelligence for the world.
