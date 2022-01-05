@@ -5,7 +5,7 @@ on: [push, pull_request]
 jobs:
   test:
     env:
-      AMBEE_TOKEN: ${{ secrets.AMBEE_TOKEN }}
+      AMBEE_KEY: ${{ secrets.AMBEE_KEY }}
     runs-on: ubuntu-latest
     steps:
       - name: setup go
